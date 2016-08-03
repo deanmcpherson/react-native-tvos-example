@@ -1,0 +1,13 @@
+{
+  "name": "townskeTV",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-native": "git+https://github.com/douglowder/react-native-appletv.git",
+    "react-native-blur": "^1.0.0"
+  }
+}
